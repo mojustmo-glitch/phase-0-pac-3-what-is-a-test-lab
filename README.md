@@ -51,6 +51,7 @@ the test file.
 
 Take a look at the `message` variable:
 
+
 ```js
 const message = `${name} is ${height} inches tall`;
 ```
